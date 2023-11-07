@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Engineering (Honours) in Software Engineering, Victoria University of Wellington, 2025 (expected)
 
 Work experience
 ======
@@ -36,7 +34,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+<!--- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -47,7 +45,7 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+--->
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -56,4 +54,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+<!---* Currently signed in to 43 different slack teams--->
+* 2023 Treasurer for the Victoria Engineering Club
+* Sed eget elit sit amet dui dapibus cursus vitae vel erat
+* Duis tempor tempus magna eu euismod
